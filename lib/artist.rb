@@ -6,3 +6,5 @@ class Artist
   end
   
 end 
+
+kid_cudi = Artist.new("kid_cudi")
