@@ -7,4 +7,4 @@ class Artist
   
 end 
 
-kid_cudi = Artist.new("kid_cudi")
+kid_cudi = Artist.new(kid_cudi)
